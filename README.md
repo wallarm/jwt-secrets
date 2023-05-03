@@ -10,4 +10,3 @@ We focused on Google search and GitHub dorks by using mainly two query patterns:
 
 This repository is automatically connected with the JWT heartbreaker Burp extension (see: https://lab.wallarm.com/meet-jwt-heartbreaker-a-burp-extension-that-finds-thousands-weak-secrets-automatically/)
 
-[Alakbar Huseynli](https://github.com/alekberxh)
