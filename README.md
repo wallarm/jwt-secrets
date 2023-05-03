@@ -9,3 +9,4 @@ We focused on Google search and GitHub dorks by using mainly two query patterns:
 1. Google BigQuery search based on 3M GitHub projects
 
 This repository is automatically connected with the JWT heartbreaker Burp extension (see: https://lab.wallarm.com/meet-jwt-heartbreaker-a-burp-extension-that-finds-thousands-weak-secrets-automatically/)
+
